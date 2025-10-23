@@ -6,7 +6,7 @@ import json
 webhook_url = "https://defaultd8967df182fd49ae8495bfd989f50b.97.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/02481b4ac87045109b5ed1244346f810/triggers/manual/paths/invoke?api-version=1&sp=/triggers/manual/run&sv=1.0&sig=17WbP6Cevdyr-ZuY7rb_GiVKcacSyZ43JQAXAkPthYc"
 
 # Path to the birthday list file
-FILE_PATH = "gimtadieniai.rtf"
+FILE_PATH = "https://github.com/qnpx5d2rvj-dot/Gimtadieniu_bot/blob/1643c878444a9a87ad4cc0a567ce4abe4fc9d49f/vardai"
 
 def read_birthdays(file_path):
     birthdays = []
